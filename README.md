@@ -13,7 +13,7 @@
   <hr>
 
   ## Description: 
-   A command-line application that dynamically generates a professional README.md from the user's input
+   A command-line application that dynamically generates a professional README.md from the user's input. This application will allow a project creator to spend more time working on finishing the project and less time creating a good README.
  
 
    <hr>
@@ -25,7 +25,8 @@
    <hr>
 
    ## Installation: 
-   Resources on the internet and following along to class activities 
+   The code for this application was written using resources on the internet and following along to class activities.
+   www.stackoverflow.com, www.w3schools.com, https://nodejs.org/api/fs.html
    
    <hr>
    
