@@ -48,10 +48,11 @@ function promptUser() {
       type: "input",
       message: "Enter your GitHub Username",
       name: "github"
-    },{
-      type: "input",
-      message: "Contact info for questions",
-      name: "Questions"
+    // },{
+    //   type: "input",
+    //   message: "Contact info for questions",
+    //   name: "Questions"
+    // }
     }
     ])
   };
