@@ -6,6 +6,7 @@
   * [Description](#description)
   * [Usage](#usage)
   * [Installation](#installation)
+  * [Images](#images)
   * [License](#license)
   * [Test](#test)
   * [Questions](#questions)
@@ -30,7 +31,7 @@
    
    <hr>
    
-   ## Application Images:
+   ## Images:
    
 ![Example README](https://user-images.githubusercontent.com/66035385/91083514-6bc68f80-e618-11ea-9ebf-65d2f06fc6f7.jpg)
 ![node example1](https://user-images.githubusercontent.com/66035385/91083517-6c5f2600-e618-11ea-8de8-54bb4f0525a1.jpg)
