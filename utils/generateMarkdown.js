@@ -6,7 +6,7 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   * [Description](#description)
-  * [How it's Used](#usage)
+  * [Usage](#usage)
   * [Installation](#installation)
   * [License](#license)
   * [Test](#test)
@@ -19,7 +19,7 @@ function generateMarkdown(data) {
 
    <hr>
 
-  ## How it's used: 
+  ## Usage: 
    ${data.usage}\n
 
    <hr>
