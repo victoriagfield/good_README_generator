@@ -2,32 +2,50 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ## Description: <hr>
-   ${data.description}\n
+  <hr>
 
-  ## How it's used: <hr>
+  ## Table of Contents
+  * [Description](#description)
+  * [Usage](#usage)
+  * [Installation](#installation)
+  * [License](#license)
+  * [Test](#test)
+  * [Questions](#questions)
+
+  <hr>
+
+  ## Description: 
+   ${data.description}\n 
+
+   <hr>
+
+  ## How it's used: 
    ${data.usage}\n
 
-  ## License: <hr>
-   ${data.license}\n
+   <hr>
 
-   ## Installation: <hr>
+   ## Installation: 
    ${data.installation}\n
 
-  ## Creator Name: <hr>
-   ${data.name}\n
+   <hr>
 
-  ## Creator E-mail: <hr>
-   ${data.email}\n
+   ## License: 
+   ${data.license}\n
 
-  ## GitHub Name: <hr>
-   ${data.github}\n
+   <hr>
 
-  ## GitHub URL: <hr>
-   ${data.url}\n
+   ## Test: 
+   ${data.test}\n
 
-  ## Contributors: <hr>
+   <hr>
+
+   ## Contributors: 
    ${data.contributor}\n
+
+   <hr>
+
+## Questions: 
+If you have any questions please contact ${data.name} via ${data.email} or on GitHub ${data.github} (https://github.com/${data.github})
 
 `;}
 
