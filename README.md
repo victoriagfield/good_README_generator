@@ -26,6 +26,13 @@
 
    ## Installation: 
    Resources on the internet and following along to class activities 
+   
+   <hr>
+   
+   ## Application Images:
+   ![Example README](https://user-images.githubusercontent.com/66035385/91080496-a8dc5300-e613-11ea-8a5f-9be58b039505.jpg)
+![node example](https://user-images.githubusercontent.com/66035385/91080498-a974e980-e613-11ea-9788-41b1985a3d9a.jpg)
+![node example 2](https://user-images.githubusercontent.com/66035385/91080500-a974e980-e613-11ea-8c27-f8ff1b459c82.jpg)
 
 
    <hr>
@@ -38,6 +45,8 @@
 
    ## Test: 
    This application is tested in the VSC terminal using node
+   
+   ![good_readme_generator](https://user-images.githubusercontent.com/66035385/91080502-a974e980-e613-11ea-9a10-0719b70a263f.gif)
 
 
    <hr>
